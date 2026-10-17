@@ -1,0 +1,11 @@
+# Gradle and Android Studio
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+
+# Signed build outputs / local keys
+*.jks
+*.keystore
